@@ -71,3 +71,7 @@ repositories:
     type: git
     url: https://github.com/chart-sg/rmf2A_sensor_msgs.git
     version: development
+  rmf/rmf2_mm:
+    type: git
+    url: https://github.com/chart-sg/rmf2_mm.git
+    version: development
